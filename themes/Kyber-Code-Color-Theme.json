@@ -265,7 +265,7 @@
 				"constant.character.entity.named.nbsp.html"
 			],
 			"settings": {
-				"foreground": "#a71900"
+				"foreground": "#bf2b3e"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 				"keyword.other.DDL.create.II.sql"
 			],
 			"settings": {
-				"foreground": "#be0404"
+				"foreground": "#bf2b3e"
 			}
 		},
 		{
@@ -504,7 +504,7 @@
 				"source.cpp meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#a71900"
+				"foreground": "#bf2b3e"
 			}
 		},
 		{
@@ -513,7 +513,7 @@
 				"variable.other.constant"
 			],
 			"settings": {
-				"foreground": "#a71900"
+				"foreground": "#bf2b3e"
 			}
 		},
 		{
@@ -523,7 +523,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#a71900"
+				"foreground": "#bf2b3e"
 			}
 		},
 		{
@@ -548,7 +548,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#a71900"
+				"foreground": "#bf2b3e"
 			}
 		},
 		{
@@ -1148,7 +1148,7 @@
 		"terminal.ansiCyan": "#009688",
 		"terminal.ansiGreen": "#13A10E",
 		"terminal.ansiPurple": "#881798",
-		"terminal.ansiRed": "#9e0404",
+		"terminal.ansiRed": "#bf2b3e",
 		"terminal.ansiWhite": "#CCCCCC",
 		"terminal.ansiYellow": "#C19C00",
 		"terminal.ansiBrightBlack": "#767676",
