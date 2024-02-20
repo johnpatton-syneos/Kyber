@@ -563,7 +563,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#72ce09"
+				"foreground": "#74b72e"
 			}
 		},
 		{
@@ -1191,7 +1191,7 @@
 		"peekViewEditor.matchHighlightBackground": "#80CBC420",
 		
 		/* Git */
-		"gitDecoration.addedResourceForeground": "#72ce09",
+		"gitDecoration.addedResourceForeground": "#74b72e",
 		"gitDecoration.conflictingResourceForeground": "#e6710a",
 		"gitDecoration.deletedResourceForeground": "#FF537070",
 		"gitDecoration.ignoredResourceForeground": "#607a8690",
